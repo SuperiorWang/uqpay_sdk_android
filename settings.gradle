@@ -1,0 +1,1 @@
+include ':app', ':uqpay_sdk'
